@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/rahuldohare007" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldohare007?logo=twitter&style=for-the-badge" alt="rahuldohare007" /></a> </p>
 
-- 🔭 I’m currently working on **Forum Site - iDiscuss**
+- 🔭 I’m currently working on **Twitter-Clone**
 
 - 🌱 I’m currently learning **DSA**
 
 - 📝 I regularly write articles on [https://cyborgcoding007.blogspot.com/](https://cyborgcoding007.blogspot.com/)
 
-- 💬 Ask me about **DSA, Front-end Development**
+- 💬 Ask me about **DSA and MERN Stack Development**
 
 - 📫 How to reach me **rahuldohare401@gmail.com**
 
