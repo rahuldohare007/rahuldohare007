@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/rahuldohare007" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldohare007?logo=twitter&style=for-the-badge" alt="rahuldohare007" /></a> </p>
 
-- 🔭 I’m currently working on **Twitter-Clone**
+- 🔭 I’m currently working on **AboutWorld(Tourism Website)**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA and Full Stack**
 
 - 📝 I regularly write articles on [https://cyborgcoding007.blogspot.com/](https://cyborgcoding007.blogspot.com/)
 
