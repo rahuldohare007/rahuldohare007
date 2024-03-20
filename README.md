@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuldohare007&label=Profile%20views&color=0e75b6&style=flat" alt="rahuldohare007" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rahuldohare007" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldohare007?logo=twitter&style=for-the-badge" alt="rahuldohare007" /></a> </p>
+<p align="left"> <a href="https://twitter.com/cyborgcoding007" target="blank"><img src="https://img.shields.io/twitter/follow/cyborgcoding007?logo=twitter&style=for-the-badge" alt="cyborgcoding007" /></a> </p>
 
 - 🔭 I’m currently working on **AboutWorld(Tourism Website)**
 
