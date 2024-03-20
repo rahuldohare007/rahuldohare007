@@ -21,9 +21,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/cyborgcoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cyborgcoding" height="30" width="40" /></a>
-<a href="https://twitter.com/rahuldohare007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahuldohare007" height="30" width="40" /></a>
+<a href="https://twitter.com/cyborgcoding007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyborgcoding007" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rahul-dohare-0a5a1619a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-dohare-0a5a1619a/" height="30" width="40" /></a>
-<a href="https://instagram.com/rahul.dohare17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul.dohare17" height="30" width="40" /></a>
+<a href="https://instagram.com/cyborgcoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul.dohare17" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rahuldohare007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahuldohare007" height="30" width="40" /></a>
 </p>
 
