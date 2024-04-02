@@ -34,6 +34,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/cyborgcoding"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cyborgcoding" /></a></p>
+<br>
+<br>
+<br>
+<hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahuldohare007&show_icons=true&locale=en&layout=compact" alt="rahuldohare007" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahuldohare007&show_icons=true&locale=en" alt="rahuldohare007" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahuldohare007&theme=dark" alt="rahuldohare007" /></p>
