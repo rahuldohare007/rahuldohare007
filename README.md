@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Dohare</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img scr="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" alt="CodingImage"/>
+<img scr="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" align="right" width="400" alt="CodingImage">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuldohare007&label=Profile%20views&color=db0a0a&style=flat" alt="rahuldohare007" /> </p>
 
