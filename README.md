@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuldohare007&label=Profile%20views&color=db0a0a&style=flat" alt="rahuldohare007" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cyborgcoding007" target="blank"><img src="https://img.shields.io/twitter/follow/cyborgcoding007?logo=twitter&style=for-the-badge" alt="cyborgcoding007" /></a> </p>
+<p align="left"> <a href="https://twitter.com/cyborgcoding007" target="blank"><img src="https://img.shields.io/twitter/follow/codingcyborg009?logo=twitter&style=for-the-badge" alt="cyborgcoding007" /></a> </p>
 
 - 🔭 I’m currently working on **Data Structure and Algorithms**
 
@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/cyborgcoding007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyborgcoding007" height="30" width="40" /></a>
 <a href="https://instagram.com/cyborgcoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyborgcoding" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/www.youtube.com/@cyborgcoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@cyborgcoding" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/www.youtube.com/@cyborgcoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@coding-cyborg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rahuldohare401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rahuldohare401" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rahuldohare007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahuldohare007" height="30" width="40" /></a>
 <a href="https://discord.gg/dA6DPtbw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dA6DPtbw" height="30" width="40" /></a>
