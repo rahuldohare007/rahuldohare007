@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuldohare007&label=Profile%20views&color=db0a0a&style=flat" alt="rahuldohare007" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cyborgcoding007" target="blank"><img src="https://img.shields.io/twitter/follow/codingcyborg009?logo=twitter&style=for-the-badge" alt="cyborgcoding007" /></a> </p>
+<p align="left"> <a href="https://twitter.com/codingcyborg009" target="blank"><img src="https://img.shields.io/twitter/follow/codingcyborg009?logo=twitter&style=for-the-badge" alt="codingcyborg009" /></a> </p>
 
 - 🔭 I’m currently working on **Data Structure and Algorithms**
 
