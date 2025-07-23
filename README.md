@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Data Structure and Algorithms**
 
-- 🌱 I’m currently learning **DSA and Fullstack Development**
+- 🌱 I’m currently learning **DSA and Machine Learning / Artificial Intelligence**
 
 - 📝 I regularly write articles on [https://cyborgcoding007.blogspot.com/](https://cyborgcoding007.blogspot.com/)
 
