@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Dohare</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966](https://github.com/user-attachments/assets/9fce9926-0117-4c50-8673-95451f5016cf)
+<img align="right" width="400" alt="mr.pscychocyborg" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuldohare007&label=Profile%20views&color=db0a0a&style=flat" alt="rahuldohare007" /> </p>
 
