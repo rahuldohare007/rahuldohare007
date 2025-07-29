@@ -12,6 +12,8 @@
 
 - 👨‍💻 All of my projects are available at [https://rahul-dohare-portfolio.vercel.app/](https://rahul-dohare-portfolio.vercel.app/)
 
+- 📚 All of my hand written notes [Hand Written Notes](https://drive.google.com/drive/folders/1ATt5iqlyuuoxx-BiTmAXQBDJk5KYae-A?usp=sharing)
+
 - 📝 I regularly write articles on [https://cyborgcoding007.blogspot.com/](https://cyborgcoding007.blogspot.com/)
 
 - 💬 Ask me about **DSA and Fullstack Development**
