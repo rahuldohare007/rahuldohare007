@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuldohare007&label=Profile%20views&color=0e75b6&style=flat" alt="rahuldohare007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahuldohare007" alt="rahuldohare007" /></a> </p>
-
 - 🔭 I’m currently working on **Data Structure and Algorithms**
 
 - 🌱 I’m currently learning **Machine Learning/Artificial Intelligence**
